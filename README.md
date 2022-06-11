@@ -2,7 +2,7 @@
 
 
 
-How Install [JS]
+How Install [JS]\n
 1- Install All Fonts
 2- Onetap v3 Scripts Folder
 3- Open Csgo.exe
