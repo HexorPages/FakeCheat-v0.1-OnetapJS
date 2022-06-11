@@ -8,4 +8,8 @@
 <p>4- Open Injector DLL</p>
 <p>5- Inject Onetap v3</p>
 <p>6- Load JS FakeCheat v0.1</p>
+<h1>ShowCase:</h1>
+
+![imgs](https://user-images.githubusercontent.com/97565183/173202657-d753d5b8-466f-4c7d-9a2e-5d352eafc022.png)
+
 
